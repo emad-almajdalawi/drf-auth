@@ -11,8 +11,3 @@ urlpatterns = [
     path('api/memes-no-img', MemesListCreateAPI.as_view(), name='memes-no-img'),
 ]
 
-
-# {
-#     "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY1NDAzNTE1MCwiaWF0IjoxNjUzOTQ4NzUwLCJqdGkiOiJmMjZjOTJiZTIxMGM0Mzg4YjM2ZmIzMjMzYjFhZmZlNSIsInVzZXJfaWQiOjF9.kTkSp-6rNNJWL1mo_44pDPly4b_hfpsNBYtyPfc3cUQ",
-#     "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjUzOTQ5MDUwLCJpYXQiOjE2NTM5NDg3NTAsImp0aSI6ImU0NGMzNzY2OTYzZDRlMTI4NmIzZWFkODg4YjJiNTRlIiwidXNlcl9pZCI6MX0.reARpX9oIJaYhbqi8gc1o0e49aSEMulwsgmtemCociI"
-# }
